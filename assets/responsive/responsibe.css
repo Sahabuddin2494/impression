@@ -1,0 +1,256 @@
+@media  (max-width: 1400px) {
+    .new_navbar ul li a {
+        color: rgba(17, 17, 17, .85);
+        font-size: 15px;
+       
+        padding: 6px 7px;
+        /* background-color: red; */
+    }
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* menu_bar_start */
+    .new_navbar ul li a {
+        color: rgba(17, 17, 17, .85);
+        font-size: 13px;
+        transition: all 0.5s;
+        padding: 6px 5px;
+        text-decoration: none;
+        /* background-color: red; */
+    }
+    /* menu_bar_end */
+    /* carousel_section_start */
+    .carousel_section_start .carousel-caption {
+    
+      right: 11%;
+      bottom: 5.25rem;
+      left: 0%;
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+  }
+    /* carousel_section_end */
+    .welcome_to_section_middle h1 {
+      text-transform: uppercase;
+      margin-bottom: 0px;
+      font-size: 26px;
+  }
+  .why_choose_us_sec_left_details p {
+    font-size: 14px;
+}
+.why_choose_title h2 {
+  font-size: 28px;
+}
+.welcome_to_section_middle h2 {
+  font-size: 28px;
+}
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .top_header_right {
+        text-align: right;
+        padding-top: 4px;
+    }
+    
+   /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+  /* carosel_section_start */
+  .carousel_section_start .carousel-caption {
+    position: absolute;
+    right: 10%;
+    bottom: 3.25rem;
+    left: 0%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+  
+}
+.carousel_section_start .carousel-caption h1 {
+ 
+  font-size: 60px;
+ 
+}
+.our_team_d_item1 h5 {
+  font-weight: 500;
+  font-size: 14px;
+}
+.our_team_d_item1 p {
+  line-height: 11px;
+  font-size: 13px;
+}
+.welcome_to_section_middle h1 {
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  font-size: 23px;
+}
+.welcome_to_section_middle h2 {
+  
+  font-size: 31px;
+  padding-top: 30px;
+}
+  /* carosel_section_end */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .top_header_left {
+        text-align: center;
+        line-height: 16px;
+    }
+    .top_header_right {
+        text-align: center;
+        padding-top: 10px;
+    }
+    /* menu_bar_start */
+    
+   /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+  .welcome_to_section_middle h2 {
+    
+    font-size: 28px;
+    padding-top: 20px;
+}
+.why_choose_title h2 {
+  font-size: 31px;
+  text-transform: capitalize;
+}
+.our_team_d_item1 h5 {
+  font-weight: 500;
+  font-size: 14px;
+}
+.our_team_d_item1 p {
+  line-height: 12px;
+  font-size: 12px;
+}
+ 
+ }
+
+@media (max-width: 575.98px) {
+    .top_header_left {
+        text-align: center;
+        line-height: 16px;
+    }
+    .top_header_right {
+        text-align: center;
+        padding-top: 10px;
+    }
+    /* menu_bar_start */
+    .Logo_section_left_img {
+        width: 99%;
+        height: 70px;
+        text-align: center;
+    }
+    /* new_navbar_start */
+   .new_navbar ul{
+    padding:0px;
+   }
+   .new_navbar ul li{
+    width:100%;
+    padding: 0px;
+  }
+  .new_navbar ul li a:hover{
+   background-color:yellowgreen;;
+  }
+  .new_navbar ul li .drop_ul{
+    position: relative;
+    width:100%;
+    left:30px;
+    top:10px;
+    background-color: none;
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li{
+   
+    /* background-color:plum!important; */
+  }
+  .new_navbar ul li .drop_ul .drop_ul_li a{
+    /* padding-left:50px; */
+    margin-left:30px;
+    padding-left:4px;
+   }
+   .new_navbar ul li .drop_ul .drop_ul_li a:hover{
+    background-color:yellowgreen;;
+    color:white;
+  
+   }
+  /* new_navbar_end */
+  .welcome_to_section_middle h1 {
+    font-size: 20px;
+    text-align: center;
+}
+.welcome_to_para p {
+  line-height: 20px;
+}
+.welcome_to_section_middle h2 {
+  font-size: 20px;
+  padding-top: 16px;
+}
+.why_choose_title h2 {
+  font-size: 26px;
+  text-transform: capitalize;
+}
+
+}
+/* nav_drop_section_end */
+    /* menu_bar_end */
+
+  
+ 
